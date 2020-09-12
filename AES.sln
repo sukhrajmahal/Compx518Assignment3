@@ -1,0 +1,18 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES", "AES\AES.csproj", "{87EEA212-54A5-4598-A2F3-251EA4882EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+		Encrypt|Any CPU = Encrypt|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EEA212-54A5-4598-A2F3-251EA4882EA4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{87EEA212-54A5-4598-A2F3-251EA4882EA4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{87EEA212-54A5-4598-A2F3-251EA4882EA4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{87EEA212-54A5-4598-A2F3-251EA4882EA4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
